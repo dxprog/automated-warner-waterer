@@ -1,0 +1,15 @@
+{
+  "name": "aww",
+  "version": "1.0.0",
+  "description": "The Automated Warner Waterer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Hackmann",
+  "license": "ISC",
+  "dependencies": {
+    "rpi-gpio": "^0.7.0",
+    "serialport": "^4.0.1"
+  }
+}
